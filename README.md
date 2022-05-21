@@ -9,19 +9,19 @@ Improvements and suggestions welcome!
   
 Normal folder structure:
 
-> templates/ (+ templates/customers/)
+templates/ (+ templates/customers/)
 
-> sections/
+sections/
 
-> snippets/
+snippets/
 
-> assets/
+assets/
 
-> config/
+config/
 
-> layout/
+layout/
 
-> locales/
+locales/
 
 2) Place the 'map_theme.sh' file into the same directory as the folders listed above
 3) Make sure the file is executable
